@@ -1,0 +1,18 @@
+{
+  "name": "bbclash-rs-freebsd-x64",
+  "version": "0.0.0",
+  "os": [
+    "freebsd"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "bbclash-rs.freebsd-x64.node",
+  "files": [
+    "bbclash-rs.freebsd-x64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
