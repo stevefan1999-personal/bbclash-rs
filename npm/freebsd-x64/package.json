@@ -1,5 +1,5 @@
 {
-  "name": "bbclash-rs-freebsd-x64",
+  "name": "@stevefan1999/bbclash-rs-freebsd-x64",
   "version": "0.0.0",
   "os": [
     "freebsd"
@@ -11,8 +11,10 @@
   "files": [
     "bbclash-rs.freebsd-x64.node"
   ],
+  "description": "napi-rs bindings for bbclash in Rust",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/stevefan1999-personal/bbclash-rs"
 }

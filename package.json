@@ -1,5 +1,5 @@
 {
-  "name": "bbclash-rs",
+  "name": "@stevefan1999/bbclash-rs",
   "version": "0.0.0",
   "main": "index.js",
   "types": "index.d.ts",
@@ -43,5 +43,7 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.4.1",
+  "repository": "https://github.com/stevefan1999-personal/bbclash-rs",
+  "description": "napi-rs bindings for bbclash in Rust"
 }

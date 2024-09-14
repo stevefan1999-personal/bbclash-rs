@@ -1,3 +1,3 @@
-# `bbclash-rs-darwin-universal`
+# `@stevefan1999/bbclash-rs-darwin-universal`
 
-This is the **universal-apple-darwin** binary for `bbclash-rs`
+This is the **universal-apple-darwin** binary for `@stevefan1999/bbclash-rs`

@@ -1,3 +1,3 @@
-# `bbclash-rs-linux-x64-gnu`
+# `@stevefan1999/bbclash-rs-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `bbclash-rs`
+This is the **x86_64-unknown-linux-gnu** binary for `@stevefan1999/bbclash-rs`

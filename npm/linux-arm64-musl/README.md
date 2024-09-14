@@ -1,3 +1,3 @@
-# `bbclash-rs-linux-arm64-musl`
+# `@stevefan1999/bbclash-rs-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `bbclash-rs`
+This is the **aarch64-unknown-linux-musl** binary for `@stevefan1999/bbclash-rs`
