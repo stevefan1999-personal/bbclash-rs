@@ -77,6 +77,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@stevefan1999/bbclash-rs@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@stevefan1999/bbclash-rs@workspace:."
+  dependencies:
+    "@napi-rs/cli": "npm:^2.18.4"
+    ava: "npm:^6.0.1"
+  languageName: unknown
+  linkType: soft
+
 "@vercel/nft@npm:^0.26.2":
   version: 0.26.5
   resolution: "@vercel/nft@npm:0.26.5"
@@ -287,15 +296,6 @@ __metadata:
   checksum: 10c0/9308baf0a7e4838a82bbfd11e01b1cb0f0cf2893bc1676c27c2a8c0e70cbae1c59120c3268517a8ae7fb6376b4639ef81ca22582611dbee4ed28df945134aaee
   languageName: node
   linkType: hard
-
-"bbclash-rs@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "bbclash-rs@workspace:."
-  dependencies:
-    "@napi-rs/cli": "npm:^2.18.4"
-    ava: "npm:^6.0.1"
-  languageName: unknown
-  linkType: soft
 
 "bindings@npm:^1.4.0":
   version: 1.5.0
