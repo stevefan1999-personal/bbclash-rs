@@ -19,3 +19,6 @@ napi-build = "2.0.1"
 [profile.release]
 lto = "fat"
 strip = "symbols"
+
+[patch.crates-io]
+bbclash = { git = 'https://github.com/stevefan1999-personal/BBClash' }
